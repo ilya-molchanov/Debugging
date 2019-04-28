@@ -1,0 +1,2 @@
+ildasm /out="F:\Projects\mentoring\New folder\CrackMe.il" "F:\Projects\mentoring\New folder\CrackMe.exe"
+ilasm /dll /pdb /debug "F:\Projects\mentoring\New folder\CrackMe.il"
